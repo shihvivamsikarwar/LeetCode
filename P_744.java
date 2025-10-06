@@ -1,4 +1,4 @@
-public class SmallestLetterGreaterThanTarget_744 {
+public class P_744 {
     public static void main(String[] args) {
         char[] letters={'c','f','j'};
         char target='a';
